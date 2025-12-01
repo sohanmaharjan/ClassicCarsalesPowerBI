@@ -1,1 +1,1 @@
-# ClassicCarsalesPowerBI
+Designed and implemented a full Power BI analytics dashboard to evaluate ClassicModels’ global sales performance. Processed and cleaned raw Excel/CSV datasets using Power Query, standardized data types, removed nulls, and created business-ready metrics (sales value, cost of sales, MOM%, YTD). Built intuitive visuals such as time-series trends, product-line analysis, and regional comparisons. This project demonstrates strong skills in Power BI, DAX, data modeling, and end-to-end BI reporting.
